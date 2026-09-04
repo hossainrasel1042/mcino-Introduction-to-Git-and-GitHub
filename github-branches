@@ -1,0 +1,10 @@
+git fetch
+hossainrasel1042@rasel:~/Projects/mcino-Introduction-to-Git-and-GitHub$ git branch -a -vv
+  bug-fix-typo                  4d2b6d3 add typo into that
+* main                          e8878c7 [origin/main]  Add PR verification output
+  revert/bug-fix                f840938 done
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/main           e8878c7  Add PR verification output
+  remotes/origin/revert/bug-fix f840938 done
+
+
